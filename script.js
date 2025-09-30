@@ -1,3 +1,3 @@
 function showMessage() {
-  alert("Welcome to my website! 🚀");
+  alert("🎉 Welcome to NaeemWeb!");
 }
